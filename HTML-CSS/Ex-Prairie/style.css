@@ -1,0 +1,55 @@
+body
+{
+    background-color: gray;    
+}
+
+.divUn {
+    font-family:  Pacifico;
+}
+
+.moncercle
+{
+  background: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+  border-radius:100%;
+  width:30px;
+  height:30px;
+  border:2px solid #679403;
+}
+#divDeux
+
+{   border-radius: 100%;
+    width:500px;
+    height:500px;
+   border: :2px solid #679403;
+    background-image:url("image/rose.jpeg");
+    background-repeat: no-repeat;
+    background-color: white;
+    
+}
+
+#divDeux
+{
+    text-align: center;
+    
+}
+    
+.divTrois img
+{
+    width: 50px;
+    height: 50px;
+}
+
+.
+.divQuatre img
+{ width: 30px;
+    height: 30px;}
+
+.divCinq img
+{
+    width: 100px;
+    height: 100px;
+}
+
+
+
+    

@@ -1,0 +1,37 @@
+table
+{
+    border: 1px solid black; 
+    border-collapse: collapse;
+    width: 1000px;    
+}
+/*th, tr{
+    border:1px solid black;
+border-collapse: collapse;}*/
+    
+
+    
+ tr:nth-child(even){
+        background: gray;
+    }
+
+td {
+    border:1px solid black;
+}
+th{
+
+    border: 1px solid black;
+}
+
+
+/*tr:nth-child(even) {background: yellow;}*/
+/*:nth-child(odd) {background: green;}*/
+
+.boy{
+   
+    color:green;
+}
+
+.girl{
+
+    color:rosybrown;
+}
